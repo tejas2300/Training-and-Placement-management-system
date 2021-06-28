@@ -37,7 +37,7 @@ Training and Placement Officer have to collect the information of students and m
 
 Fire below commands to start this project in VS Code terminal
 
-In Backend folder 
+In server folder 
 
 • Npm init
 
